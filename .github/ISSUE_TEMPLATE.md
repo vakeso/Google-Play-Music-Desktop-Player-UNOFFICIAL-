@@ -29,3 +29,5 @@ If appropriate please attach the DEBUG information zip file that you can generat
 **Issue Descriptions:**
 
 **Steps to Reproduce:**
+
+.github/ISSUE_TEMPLATE.md
